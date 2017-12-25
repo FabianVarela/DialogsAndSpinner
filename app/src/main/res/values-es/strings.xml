@@ -1,0 +1,42 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Dialogs and spinner</string>
+    <string name="select_value_text">Seleccione alguna valor…</string>
+    <string name="dialog_message">Dialogo: %s</string>
+
+    <string-array name="dialog_arrays" tools:ignore="InconsistentArrays">
+        <item>Dialogo por defecto</item>
+        <item>Dialogo con lista</item>
+        <item>Dialogo con selección</item>
+        <item>Dialogo con progreso</item>
+        <item>Dialogo con barra</item>
+        <item>Dialogo personalizado</item>
+        <item>Dialogo con mensaje selccionado</item>
+    </string-array>
+
+    <string name="email_text">Correo electrónico</string>
+    <string name="password_text">Contraseña</string>
+
+    <string name="title_text">Titulo</string>
+    <string name="message_text">Este es un mensaje</string>
+
+    <string name="ok_text">Aceptar</string>
+    <string name="cancel_text">Cancelar</string>
+
+    <string name="select_color_text">Select a color…</string>
+
+    <string-array name="color_arrays" tools:ignore="InconsistentArrays">
+        <item>Blue</item>
+        <item>Red</item>
+        <item>Yellow</item>
+        <item>Green</item>
+    </string-array>
+
+    <string name="please_wait_text">Por favor espere</string>
+    <string name="downloading_text">Descargando…</string>
+
+    <string name="user_password_message">Usuario: %s, Contraseña: %s</string>
+    <string name="empty_message">Datos vacíos</string>
+
+    <string name="population_text">Población: %s</string>
+
+</resources>
